@@ -5,7 +5,7 @@ The goal of the project is to compare several MSA strategies and evaluate their 
 
 1. VAT-based guide trees using both full VAT distances and mBed-style embeddings  
 2. Progressive profile–profile alignment using guide trees  
-3. Gibbs sampling as a refinement method on MSA for local alignment  
+3. Gibbs sampling as a refinement method on MSA for local alignments  
 4. Evaluation of generated alignments against Pfam reference data
 
 The scripts in this folder perform three major functions:
